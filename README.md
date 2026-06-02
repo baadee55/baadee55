@@ -18,7 +18,7 @@ If my tools save you time, sponsoring keeps them maintained and funds new ones. 
 | Coin / Network | Address |
 |---|---|
 | **ETH / ERC-20 / USDT-ERC20** | `0xD9397E6d6e2b45eaf38182fbE93213bf63A97b50` |
-| **USDT — TRON (TRC20)** | _coming soon_ |
-| **BTC** | _coming soon_ |
+| **USDT — TRON (TRC20)** | `TL2QgdD9684N7bjfYFT9e5Mc6PBwoXAbC9` |
+| **BTC** | `33SU1T3Dip6btiLS8FnDMoDu8xFYvUuuHz` |
 
 > ⚠️ Match the network exactly when sending — mismatched transfers (e.g. TRC20 sent to an ERC-20 address) are lost.
