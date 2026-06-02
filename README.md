@@ -4,7 +4,7 @@ I build and open-source **self-hosted developer tools** — privacy-first, no ve
 
 ## 🚀 Projects
 
-- **[AI Coding Hub](https://github.com/baadee55/ai-coding-hub)** — Run **Claude Code** on your home PC from your phone. Your own Max/Pro plan (**no API bill**), over a Cloudflare Tunnel (**no open ports**). 📱→💻
+- **[AI Coding Hub](https://github.com/baadee55/ai-coding-hub)** — Run **Claude Code** on your home PC from your phone. Runs on your own Claude plan — **no API bill**, over a Cloudflare Tunnel (**no open ports**). 📱→💻
 - _more coming soon…_
 
 ## 💜 Support my work
